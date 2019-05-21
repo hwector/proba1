@@ -1,2 +1,1 @@
-# proba1
-proba vizsgahoz
+Ide jön a kód?
